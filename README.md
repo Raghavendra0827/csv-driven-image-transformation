@@ -25,7 +25,7 @@ The pipeline is divided into two main parts:
 
 ## 🧩 Features
 
-- Supports **TIFF and TIF** image formats.
+- Supports **any common image format** (TIFF, PNG, JPEG, BMP, etc.)
 - Performs **rotation, scaling, translation, and perspective warping**.
 - Reads **transformation parameters from CSV** for automation.
 - Uses **Tkinter GUI** for folder selection.
